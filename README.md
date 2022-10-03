@@ -5,3 +5,4 @@ Liste de mes plats préférés :
 - Cordon bleu / pates
 - Pizzas
 - Burgers 
+- Entrecôte
