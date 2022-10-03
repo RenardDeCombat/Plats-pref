@@ -6,3 +6,9 @@ Liste de mes plats préférés :
 - Pizzas
 - Burgers 
 - Entrecôte
+
+Mes jeux vidéos prefs : 
+
+- LoL
+- Call of
+- Fortnite prime
